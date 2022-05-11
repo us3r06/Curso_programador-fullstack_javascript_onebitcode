@@ -1,0 +1,1 @@
+alert("Meu codigo js Externo");
